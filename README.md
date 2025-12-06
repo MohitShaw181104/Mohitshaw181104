@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/mohitkrshaw2" target="blank"><img src="https://img.shields.io/twitter/follow/mohitkrshaw2?logo=twitter&style=for-the-badge" alt="mohitkrshaw2" /></a> </p>
 
-- 🌱 I’m currently learning **Web & App Development.**
+- 🌱 I’m currently A Final Yeear Student proficient in **Full Stack Development & competitive coding.**
 
 - 📝 I regularly write articles on [https://medium.com/@mohitshaw181104](https://medium.com/@mohitshaw181104).
 
-- 💬 Ask me about **MERN Stack, Flutter, UI/UX.**
+- 💬 Ask me about **MERN Stack, Flutter, Backend.**
 
-- 📫 How to reach me **mohitshaw181104@gmail.com.**
+- 📫 How to reach me **mohitjobenquiry@gmail.com.**
 
 - ⚡ Fun fact **Batman Is Real.**
 
