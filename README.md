@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohitkrshaw2" target="blank"><img src="https://img.shields.io/twitter/follow/mohitkrshaw2?logo=twitter&style=for-the-badge" alt="mohitkrshaw2" /></a> </p>
 
-- 🌱 I’m currently A Final Yeear Student proficient in **Full Stack Development & competitive coding.**
+- 🌱 I’m currently A Final Year Student proficient in **Full Stack Development & competitive coding.**
 
 - 📝 I regularly write articles on [https://medium.com/@mohitshaw181104](https://medium.com/@mohitshaw181104).
 
